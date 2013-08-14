@@ -210,6 +210,7 @@ Community driven list of useful things for front end developers. [How to contrib
 - [CSS-Tricks snippets](http://css-tricks.com/snippets/) — useful code snippets
 - [TypeScript](http://www.typescriptlang.org/)
 - [JSDB.io](http://www.jsdb.io) - The Database of JavaScript Libraries
+- [Setapp Front End](http://setapp.me/expertise/development-front_end) - List of Front End tools used and reviewed by Front End developers
 
 ## Stats
 - [StatCounter](http://gs.statcounter.com)
